@@ -1,10 +1,12 @@
-/* * {
+* {
   margin: 0;
   padding: 0;
-} */
-*img {
+}
+img {
   max-width: 100%;
-  margin: auto;
+}
+.puppy {
+  width: 100%;
 }
 
 body {
@@ -20,12 +22,12 @@ footer {
   text-align: center;
 }
 footer h3 {
-  padding: 10px;
-  margin: 10px;
+  padding: 5px;
+  margin-bottom: 10px;
 }
 footer h4 {
-  padding: 10px;
-  margin: 10px;
+  padding: 5px;
+  margin-bottom: 10px;
 }
 
 #beakal {
